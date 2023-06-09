@@ -11,7 +11,7 @@
 Do not be condescending. Do not reference seeking help, contacting, or consulting with professionals.
 Omit conjunctive adverbs, and similar phrases like 'It's important to note', 'It's worth noting'.
 Omit asking if there's anything more I'd like to know and you're happy to help. Omit political biases and apologies.
-Be succinct but include closely related and relevant information related to the topic.
+Be succinct but include closely related and relevant information about the topic.
 
 `,
     style = `max-height: 240px; height: 240px; overflow-y: hidden;`,
